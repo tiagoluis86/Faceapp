@@ -1,0 +1,34 @@
+#main_session {
+    display: flex;
+	flex-direction: row;
+    position: absolute;
+	left: 300px;
+    top: 80px;
+  	
+}
+
+#icon {
+    position: absolute;
+	left: 300px;
+}
+
+#footer {
+    position: absolute;
+	left: 50px;
+    top: 500px;
+
+}
+
+#celularicon {
+
+
+    width: 70%;
+
+}
+
+#login {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+}
